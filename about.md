@@ -4,24 +4,24 @@ title: Impressum
 permalink: /about/
 ---
 
-Angaben gemäß § 5 TMG  
-  
-Michaela Waldbart  
-Pasingerstraße 24a  
-82152 Planegg   
-  
-Vertreten durch:  
-Philipp von Kirschbaum  
-Michael Dürrschmidt  
-Michaela Waldbart  
-Kontakt:   
-Telefon: 089-8593333  
-E-Mail: webmaster@feuerwehr.planegg.de  
-  
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
-Michaela Waldbart   
-Pasingerstraße 24a  
-82152 Planegg   
+Angaben gemäß § 5 TMG<br>
+<br>
+Michaela Waldbart<br>
+Pasingerstraße 24a<br>
+82152 Planegg<br>
+<br>
+Vertreten durch:<br>  
+Philipp von Kirschbaum<br>
+Michael Dürrschmidt<br>
+Michaela Waldbart<br>
+Kontakt:<br>
+Telefon: 089-8593333<br>
+E-Mail: webmaster@feuerwehr.planegg.de<br>
+<br>
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:<br>
+Michaela Waldbart<br>
+Pasingerstraße 24a<br>
+82152 Planegg<br>
   
 ###Haftungsausschluss: 
 
